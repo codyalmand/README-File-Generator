@@ -30,9 +30,19 @@ const questions = [
         message: "Please provide contributor information for the project"
     },
     {
-        type: "input",
+        type: "checkbox",
         name: "license",
-        message: "Please provide licenses to include for the project"
+        message: "Scroll with arrow keys and press the spacebar to choose which licenses to include for the project",
+        choices: [
+            "GNU AGPLv3",
+            "GNU GPLv3",
+            "GNU LGPLv3",
+            "Mozilla Public License 2.0",
+            "Apache License 2.0",
+            "MIT License",
+            "Boost Software License 1.0",
+            "The Unlicense"
+        ]
     },
     {
         type: "input",
@@ -41,8 +51,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "username",
-        message: "What is your github username?"
+        name: "profile",
+        message: "What is your GitHub Profile Link?"
     },
     {
         type: "input",
