@@ -1,12 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
-const axios = require("axios");
-const generate = require('./utils/generateMarkdown');
+const generate = require("./generateMarkdown");
 
-const writeFileAsync = util.promisify(fs.writeFile);
-
-// array of questions for user
 const questions = [
     {
         type: "input",
@@ -56,4 +52,17 @@ const questions = [
 
 ];
 
+inquirer
+    .prompt(questions)
+    .then(function (data) {
+        fs.writeFile("README.md", generate(data), function (err) {
+            if (err) {
+                throw err;
+            };
+            console.log("New README file created!");
+        });
+    });
 
+function init() {}
+
+init();
