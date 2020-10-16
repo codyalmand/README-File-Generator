@@ -47,8 +47,9 @@ function generateMarkdown(data) {
 <br>
 
 ## GitHub
-  ${data.profile}
-  ${data.repo}
+  GitHub Profile: ${data.profile}
+  <br>
+  GitHub Repository: ${data.repo}
 `;
 }
 
