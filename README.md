@@ -3,16 +3,15 @@
 
 
 ## Table of contents
-  - [Description](#Description)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Licenses](#Licenses)
-  - [Contributors](#Contributors)
-  - [Test](#Test)
-  - [Repository](#Repository)
-  - [GitHub Info](#GitHub) 
-  
-<br>
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Licenses](#Licenses)
+- [Contributors](#Contributors)
+- [Test](#Test)
+- [Repository](#Repository)
+- [GitHub Info](#GitHub)
+
 
 # README-File-Generator
 
@@ -80,4 +79,4 @@ As a developer, I want a README file generator to quickly create a professional 
   README-File-Generator Repo Page: https://github.com/codyalmand/README-File-Generator
 
   <br>
-tab=repositories
+
