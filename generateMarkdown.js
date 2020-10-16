@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [License](#License)
+  - [Licenses](#Licenses)
   - [Contributors](#Contributors)
   - [Test](#Test)
   - [Repository Link](#Repository)
@@ -31,13 +31,13 @@ function generateMarkdown(data) {
 
 <br>
 
-## License
-  ${data.license}
+## Licenses
+  ${data.licenses}
 
 <br>
 
 ## Contributors
-  ${data.contributing}
+  ${data.contributors}
 
 <br>
 
@@ -46,8 +46,8 @@ function generateMarkdown(data) {
 
 <br>
 
-## GitHub Repository
-  
+## GitHub
+  ${data.profile}
   ${data.repo}
 `;
 }

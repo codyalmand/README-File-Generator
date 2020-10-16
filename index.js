@@ -31,7 +31,7 @@ const questions = [
     },
     {
         type: "checkbox",
-        name: "license",
+        name: "licenses",
         message: "Scroll with arrow keys and press the spacebar to choose which licenses to include for the project",
         choices: [
             "GNU AGPLv3",
