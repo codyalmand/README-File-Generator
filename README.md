@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/License-MIT-brightgreen)
 ![](https://img.shields.io/badge/created%20by-codyalmand-red)
 
+# README-File-Generator
 
 ## Table of contents
 - [Description](#Description)
@@ -12,8 +13,6 @@
 - [Repository](#Repository)
 - [GitHub Info](#GitHub)
 
-
-# README-File-Generator
 
 <br>
 
