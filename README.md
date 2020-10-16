@@ -1,6 +1,19 @@
 ![](https://img.shields.io/badge/License-MIT-brightgreen)
 ![](https://img.shields.io/badge/created%20by-codyalmand-red)
 
+
+## Table of contents
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Licenses](#Licenses)
+  - [Contributors](#Contributors)
+  - [Test](#Test)
+  - [Repository](#Repository)
+  - [GitHub Info](#GitHub) 
+  
+<br>
+
 # README-File-Generator
 
 <br>
@@ -31,16 +44,6 @@ As a developer, I want a README file generator to quickly create a professional 
 8. When I click on the links in the Table of Contents, I am taken to the corresponding section of the README.
 
 <br>
-
-## Table of contents
-  - [Description](#Description)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Licenses](#Licenses)
-  - [Contributors](#Contributors)
-  - [Test](#Test)
-  - [Repository](#Repository)
-  - [GitHub Info](#GitHub) 
 
   ## Installation
 
