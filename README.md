@@ -36,10 +36,10 @@ As a developer, I want a README file generator to quickly create a professional 
   - [Description](#Description)
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [License](#License)
+  - [Licenses](#Licenses)
   - [Contributors](#Contributors)
   - [Test](#Test)
-  - [Repository Link](#Repository)
+  - [Repository](#Repository)
   - [GitHub Info](#GitHub) 
 
   ## Installation
@@ -61,12 +61,20 @@ As a developer, I want a README file generator to quickly create a professional 
   Creating a README file from the command line generator.
 
   ## Licenses
+
   ![](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Contributors
+
   ![](https://img.shields.io/badge/created%20by-codyalmand-red)
 
+  ## Repository
+
+  My Entire Repository Page: https://github.com/codyalmand?
+
   ## GitHub
+
   README-File-Generator Repo Page: https://github.com/codyalmand/README-File-Generator
+
   <br>
-  My Entire Repository Page: https://github.com/codyalmand?tab=repositories
+tab=repositories

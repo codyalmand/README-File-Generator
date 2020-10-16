@@ -18,7 +18,7 @@ function generateMarkdown(data) {
   - [Licenses](#Licenses)
   - [Contributors](#Contributors)
   - [Test](#Test)
-  - [Repository Link](#Repository)
+  - [Repository](#Repository)
   - [GitHub Info](#GitHub) 
 
 ## Installation
@@ -46,10 +46,12 @@ function generateMarkdown(data) {
 
 <br>
 
+## Repository
+GitHub Repository: ${data.repo}
+
 ## GitHub
   GitHub Profile: ${data.profile}
-  <br>
-  GitHub Repository: ${data.repo}
+<br>
 `;
 }
 
