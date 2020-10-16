@@ -5,7 +5,7 @@
 
 <br>
 
-[](./readme-generator.gif)
+![](https://github.com/codyalmand/README-File-Generator/blob/main/gif/readme-generator.gif)
 
 <br>
 
