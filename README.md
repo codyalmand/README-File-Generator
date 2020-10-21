@@ -51,7 +51,7 @@ As a developer, I want a README file generator to quickly create a professional 
   <br>
   then Run:
   <br>
-  _node install index.js_
+  _node index.js_
   <br>
   in the command line (terminal)
 
